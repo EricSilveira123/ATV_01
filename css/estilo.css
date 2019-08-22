@@ -1,0 +1,54 @@
+#menu{
+
+	width: 100%x;
+	height: 50px;
+	background: lightgreen;
+	text-align: center;
+	padding-top: 10px;
+}
+
+#menu ul {
+ list-style: none;
+	
+}
+#menu ul  li{
+
+	padding-left: 50px;
+	padding-right: 50px;
+	display: inline;
+	float: right;
+
+	
+}
+
+#menu ul li a{
+
+	text-decoration: none;
+	color: black;
+	font-weight: bold;
+	font-size: 18px;
+}
+
+  #animal{
+
+  	width: 800px;
+  	height: 500px;
+  	margin:  0  auto;
+  	border: 1px transparent solid;
+  }
+
+  #conteudoanimal img{
+
+  	width: 650px;
+  	height: 450px;
+  	display: block;
+  	margin: 0 auto;
+  	margin-top: 20px;
+  }
+  #conteudoanimal{
+
+  	font-size: 16px;
+  	font-weight: bold;
+  	font-family: arial;
+  	text-align: center;
+  }
